@@ -5,4 +5,3 @@ To better understand the relation of the CN entities (MME, HSS, SPGWC and SPGWU)
 
 ![imagen](https://github.com/leandrinho1312/4G-LTE-NSA-Network-with-Mosaic5g/assets/47344280/ee52a210-98aa-40d3-82df-82f4a92daa40)
 Figure 1.
-![imagen](https://user-images.githubusercontent.com/47339991/227731955-bed4425a-b414-49d7-9737-3b5ce0ec3080.png)
