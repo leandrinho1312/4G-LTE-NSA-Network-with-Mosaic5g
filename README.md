@@ -1,4 +1,9 @@
 # 4G-LTE-NSA-Network-with-Mosaic5g
+***
+GO TO THIS [WIKI](https://github.com/leandrinho1312/4G-LTE-NSA-Network-with-Mosaic5g/wiki) TO SEE MORE INFORMATION ABOUT INSTALL AND RUN THE PROJECT 4G LTE NSA NETWORK WITH MOSAIC5G
+
+***
+
 4G network developed by students from the University of Quindio based on the MOSAIC5G platform, which provides 5G network services in close coordination with OpenAirInterface RAN and the Core Network infrastructure software.
 
 To better understand the relation of the CN entities (MME, HSS, SPGWC and SPGWU), have a look at the figure as depicted below. In particular, in the configuration you will encounter the S1-MME (sometimes called S1-C), S1-U, S6a, S11, and SGi interfaces. In OAI CN, serving gateway (SGW) and PDN gateway (PGW) are considered as one entity (hence there is no S5). SGi connects the gateway to the Internet. In the figure, we show the IP addresses that will be set in the configuration. If you want to run the CN on a separate machine from the RAN, you need to change the IP addresses of the S1-MME and S1-U interfaces.
